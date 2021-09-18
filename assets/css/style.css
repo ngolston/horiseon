@@ -88,32 +88,7 @@ p {
 }
 
 /* change id attribute and consolidated them together */
-.test2 {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* change id attribute and consolidated them together */
-.test2 {
-margin-bottom: 32px;
-color: #ffffff;
-}
-
-/* change id attribute and consolidated them together */
-.test2 h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* change id attribute and consolidated them together */
-.test2 img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* change id attribute and consolidated them together */
-.test1 {
+.ser {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -124,14 +99,33 @@ color: #ffffff;
 }
 
 /* change id attribute and consolidated them together */
-.test1 img {
+.ser img {
     max-height: 200px;
 }
 
 /* change id attribute and consolidated them together */
-.test1 h2 {
+.ser h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* change id attribute and consolidated them together */
+.ben {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* change id attribute and consolidated them together */
+.ben h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* change id attribute and consolidated them together */
+.ben img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 
 .footer {
