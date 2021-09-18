@@ -13,7 +13,7 @@ I also renamed all of the div's and changed some of the classes.
 - Davis Ransom
 - Jeffrey Young
 - Thao Nguyen
-- Parisa
+- Parisa Ostovari
 - Davis Ransom
 - Ricardo Crossley
 - And Everyone Else 😁🙏🏾
